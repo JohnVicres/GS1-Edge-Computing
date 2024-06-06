@@ -1,5 +1,5 @@
 # Projeto: Medidor de Oxigênio Dissolvido em Água com Arduino
-Este projeto envolve a criação de um medidor de oxigênio dissolvido em água utilizando uma placa Arduino. O sistema lê valores de um sensor de oxigênio dissolvido e aciona LEDs para indicar se o nível de oxigênio está dentro de uma faixa ideal.
+Este projeto envolve a criação de um medidor de oxigênio dissolvido em água utilizando uma placa Arduino. O sistema lê valores de um sensor de oxigênio dissolvido e aciona LEDs para indicar se o nível de oxigênio está dentro de uma faixa ideal. A ideia é poder controlar a quantidade de oxigênio dissolvido em áreas com desbalanço ambiental, como com excesso de algas e fitoplânctons.
 ## Componentes Necessários
 - Arduino (UNO, Nano ou qualquer outro compatível)
 - Sensor de oxigênio dissolvido (DO Sensor)
