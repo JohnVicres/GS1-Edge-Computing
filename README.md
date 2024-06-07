@@ -24,5 +24,6 @@ O código lê continuamente o valor do sensor de oxigênio dissolvido conectado 
 ## Link para o projeto no Tinkercad
 https://www.tinkercad.com/things/j2I2AQqbOZZ-fantabulous-kieran
 
-https://github.com/JohnVicres/GS1-Edge-Computing/assets/166719474/9c135e12-f507-4342-8820-4bad5b674e54
+https://github.com/JohnVicres/GS1-Edge-Computing/assets/166719474/7db3f098-9289-4850-8ad2-8bf14572ab2f
+
 
