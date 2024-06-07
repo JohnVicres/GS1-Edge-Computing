@@ -21,9 +21,11 @@ O código lê continuamente o valor do sensor de oxigênio dissolvido conectado 
 ## Considerações
 - Certifique-se de calibrar o sensor de oxigênio dissolvido de acordo com as especificações do fabricante para obter leituras precisas.
 - Ajuste os valores de IDEAL_MIN_OXYGEN e IDEAL_MAX_OXYGEN conforme necessário para seu uso específico.
+## Vídeo
+https://github.com/JohnVicres/GS1-Edge-Computing/assets/166719474/7db3f098-9289-4850-8ad2-8bf14572ab2f
 ## Link para o projeto no Tinkercad
 https://www.tinkercad.com/things/j2I2AQqbOZZ-fantabulous-kieran
 
-https://github.com/JohnVicres/GS1-Edge-Computing/assets/166719474/7db3f098-9289-4850-8ad2-8bf14572ab2f
+
 
 
